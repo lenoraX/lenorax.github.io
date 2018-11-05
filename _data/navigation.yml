@@ -4,3 +4,7 @@ main:
     url: /recipes/
   - title: "Posts"
     url: /posts/
+  - title: "Photos"
+    url: /photos/
+  - title: "Others"
+    url: /others/
